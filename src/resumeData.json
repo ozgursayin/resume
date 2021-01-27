@@ -1,0 +1,152 @@
+{
+  "main": {
+    "name": "Ozgur Sayin",
+    "description": "I am a tech enthusiast who is into new technologies and I use React.js to develop web pages. This project is my resume showcasing my background and web projects",
+    "image": "OS.png",
+    "bio": "Originally a digital marketer who is also aspiring to learn more about web development. Web dev is a fun, creative experience that gives me the opportunity to express myself creatively on the internet. Writing new programs stretches my mind and shows me possible ways to be creative.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "ozgursayin@gmail.com",
+    "phone": "+90 507 050 9288",
+    "github": "https://github.com/ozgursayin",
+    "project": "https://www.linkedin.com/in/ozgursayin",
+    "address": {
+      "city": "Istanbul,",
+      "state": "Turkey"
+    },
+    "website": "https://github.com/ozgursayin",
+    "resumedownload": "https://github.com/ozgursayin",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ozgursayin",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ozgursayin",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Stockholm School of Economics",
+        "degree": "Masters in General Management",
+        "graduated": "2010 - 2012",
+        "description": "A two year comprehensive masters's program that covers all the fundamental business areas such as corporate finance, accounting, marketing, corporate social responsibility etc. The program encourages application of theory through regular live cases with companies and a Capstone thesis project which focuses on change management and implementing strategy"
+      },
+      {
+        "school": "SUNY Binghamton University",
+        "degree": "Information Systems Engineering",
+        "graduated": "2003 - 2008",
+        "description": "Senior Project: Responsible for developing an interactive plotting tool for Rockwell Collins, leading aerospace and defense company, by using Python, Livegraph and GnuPlot. The purpose of the project was to design, implement, and test the basic functions of a plotting application for use with virtual flight simulation software. In addition, this project helped me gain the experience of working in a multinational team with colleagues from different backgrounds. "
+      },
+      {
+        "school": "Bogazici University",
+        "degree": "Information Systems Engineering",
+        "graduated": "2003 - 2008",
+        "description": "A two year comprehensive masters's program that covers all the fundamental business areas such as corporate finance, accounting, marketing, corporate social responsibility etc. The program encourages application of theory through regular live cases with companies and a Capstone thesis project which focuses on change management and implementing strategy"
+      }
+    ],
+    "work": [
+      {
+        "company": "Adphorus",
+        "title": "Senior Customer Success Manager ",
+        "years": "May 2017 - Present",
+        "description": [
+          "Adphorus, a Sojern company, is a travel focused Facebook Marketing Partner (FMP) based in Istanbul, helping big travel advertisers such as Trivago, Expedia, Traveloka, Air France ​scale their revenue​ with a ​scientific approach​ on Facebook and Instagram."
+        ],
+        "responsibilities": [
+          "My main responsibilities are identifying and understanding ​customers’ unique needs and providing ​data driven recommendations to ​meet their business goals on Facebook & Instagram. Working closely with travel brands from Asia-Pacific region including Make My Trip, Traveloka, PegiPegi, Fiji Airways, Hotelscombined",
+          "Regular ​campaign ​analyses​. performance ​calls and client ​visits to ​identify opportunities and offer solutions​ specific to ​clients’ needs, goals, and pain points",
+          " Offering ​A/B testing roadmaps and digital media ​plans/strategies for clients to deliver their ROI targets​ and ensuring their ​KPIs​ are ​aligned​ with their ​long-term goals",
+          "Working ​cross-functionally to manage ​customer ​feedback and ​internally ​communicating customer feature requests with Product and Development teams",
+          "Having expertise in travel specific Facebook, Instagram and Adphorus products and ensuring high product adoption",
+          "Identifying ​trends​, ​best practices and ​solutions in the ​market as well as sharing them with clients and team members",
+          "Onboarding ​new clients and giving ​workshops and ​demo ​sessions to make them feel comfortable about the platform and solutions"
+        ]
+      },
+      {
+        "company": "Sendloop",
+        "title": "Customer Success Manager ",
+        "years": "August 2015 - March 2017",
+        "description": "Responsible for helping each client feel and be ​successful​ Sendloop ́s ​digital​ ​marketing​ ​tools​.",
+        "responsibilities": [
+          "Worked closely with ​marketing managers to provide ​strategic recommendations andconsultations​ for clients, ensuring their ​success​ using Sendloop.",
+          "Expertise includes ​client onboarding and ​adoption​, ​client relationship management and expansion, cross selling and upselling, contract negotiation and churn prevention."
+        ]
+      },
+      {
+        "company": "Hungerprojektet",
+        "title": "Marketing Associate ",
+        "years": "August 2013 - March 2015",
+        "description": "A global, non-profit, strategic organization committed to the sustainable end of world hunger. Responsible for developing profitable marketing strategies to drive strong and continual gains. Generated new partners through direct email, phone and face-to-face campaigns.",
+        "responsibilities": [
+          "Established and built successful cooperations with new partners in Sweden.",
+          "Planned and implemented marketing programs and networking events to consistently expand partner base.",
+          "Improved partner relationships by using a web-based toolbox to help identify problem areas and provide better customer service."
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "VueJs",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "PHP",
+        "level": "80%"
+      },
+      {
+        "name": "Swift",
+        "level": "50%"
+      },
+      {
+        "name": "JAVA",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Appflix",
+        "category": "Movie app allows you to search for movies and create lists",
+        "image": "Appflix.png",
+        "url": "https://ozgursayin.github.io/appflix/#/"
+      },
+      {
+        "title": "Forex",
+        "category": "Check the latest currency rates and create your customized wallet",
+        "image": "Forex.png",
+        "url": "https://ozgursayin.github.io/forex/#/"
+      },
+      {
+        "title": "SuperHero Finder",
+        "category": "Fun way to search for your favorite super heroes",
+        "image": "Superhero.png",
+        "url": "https://ozgursayin.github.io/superhero-finder/"
+      },
+      {
+        "title": "Tournament Generator",
+        "category": "Who will win the title?",
+        "image": "Tournament.png",
+        "url": "https://ozgursayin.github.io/tournament-generator/"
+      }
+    ]
+  }
+}
